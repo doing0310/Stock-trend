@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.doing.stocktrend.mapper.MainMapper">
+
+	<delete id="deleteStock">
+        DELETE FROM stock WHERE 1=1
+    </delete>
+
+	<delete id="deleteStock2">
+        DELETE FROM stock2 WHERE 1=1
+    </delete>
+
+ 	<insert id="insertStock" parameterType="com.doing.stocktrend.bean.Stock">
+		insert into stock (<include refid="BaseStock" />)
+		values
+			(
+				#{DateType},
+				#{HdDate},
+				#{Hkcode},
+				#{SCode},
+				#{SName},
+				#{HYName},
+				#{HYCode},
+				#{ORIGINALCODE},
+				#{DQName},
+				#{DQCode},
+				#{ORIGINALCODE_DQ},
+				#{JG_SUM},
+				#{SharesRate},
+				#{NewPrice},
+				#{Zdf},
+				#{Market},
+				#{ShareHold},
+				#{ShareSZ},
+				#{LTZB},
+				#{ZZB},
+				#{LTSZ},
+				#{ZSZ},
+				#{ShareHold_Before_One},
+				#{ShareSZ_Before_One},
+				#{ShareHold_Chg_One},
+				#{ShareSZ_Chg_One},
+				#{ShareSZ_Chg_Rate_One},
+				#{LTZB_One},
+				#{ZZB_One}
+			)
+
+	</insert>
+	<sql id="BaseStock">
+		   dateType,  hdDate,  hkcode,  SCode,  SName,  HYName,  HYCode,  ORIGINALCODE,  DQName,  DQCode,  ORIGINALCODE_DQ,  JG_SUM,  sharesRate,  newPrice,  zdf,  market, shareHold,  shareSZ,  LTZB,  ZZB,  LTSZ,  ZSZ,  shareHold_Before_One,  shareSZ_Before_One, shareHold_Chg_One,  shareSZ_Chg_One,  shareSZ_Chg_Rate_One,  LTZB_One,  ZZB_One
+	</sql>
+
+	<insert id="insertStock2" parameterType="com.doing.stocktrend.bean.Stock2">
+		insert into stock (<include refid="BaseStock2" />)
+		values
+		(
+		#{stockCode},
+		#{stockName},
+		#{rise},
+		#{marketId},
+		#{price},
+		#{priceRise},
+		#{inflow},
+		#{inflowOrigin},
+		#{shareHolding},
+		#{shareHoldingOrigin},
+		#{radio}
+		)
+
+	</insert>
+	<sql id="BaseStock2">
+	    stockCode,  stockName,  rise,  marketId,  price,  priceRise,  inflow,  inflowOrigin,  shareHolding,  shareHoldingOrigin,  radio
+	</sql>
+</mapper> 
