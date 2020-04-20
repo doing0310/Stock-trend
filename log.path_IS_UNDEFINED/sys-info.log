@@ -1,0 +1,754 @@
+00:00:44.488 [Thread-10] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:00:44.507 [Thread-10] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+00:00:45.002 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 18692 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:00:45.002 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:00:45.352 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:00:45.353 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:00:45.353 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:00:45.374 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:00:45.563 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:00:45.568 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.596 seconds (JVM running for 185.393)
+00:00:50.391 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 18692 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:00:50.391 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:00:50.618 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:00:50.618 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:00:50.618 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:00:50.629 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:00:50.800 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:00:50.803 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.45 seconds (JVM running for 190.629)
+00:01:07.664 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 11096 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:01:07.668 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:01:08.885 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:01:08.885 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:01:08.886 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:01:08.960 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:01:09.868 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:01:09.896 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.596 seconds (JVM running for 3.474)
+00:01:16.588 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 1280 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:01:16.592 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:01:17.759 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:01:17.760 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:01:17.760 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:01:17.828 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:01:18.610 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:01:18.632 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.407 seconds (JVM running for 3.298)
+00:02:03.450 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:02:04.037 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:02:39.481 [Thread-11] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:02:39.484 [Thread-11] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+00:02:39.791 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 1280 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:02:39.792 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:02:40.043 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:02:40.043 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:02:40.043 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:02:40.065 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:02:40.107 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:02:45.573 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 1280 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:02:45.573 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:02:45.781 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:02:45.782 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:02:45.782 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:02:45.795 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:02:45.831 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:03:17.486 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 1280 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:03:17.487 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:03:17.839 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:03:17.840 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:03:17.840 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:03:17.855 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:03:17.894 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:03:21.667 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 6808 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:03:21.671 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:03:23.219 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:03:23.220 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:03:23.221 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:03:23.314 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:03:24.186 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:03:24.212 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.873 seconds (JVM running for 3.83)
+00:04:01.105 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:04:01.714 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:10:22.702 [Thread-12] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:10:22.713 [Thread-12] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+00:10:23.177 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 6808 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:10:23.178 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:10:23.608 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:10:23.609 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:10:23.609 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:10:23.643 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:10:23.882 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:10:23.887 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.764 seconds (JVM running for 423.504)
+00:10:32.778 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 6808 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:10:32.778 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:10:33.402 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:10:33.403 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:10:33.403 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:10:33.495 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:10:33.583 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:10:35.069 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 6808 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:10:35.069 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:10:35.421 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:10:35.421 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:10:35.421 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:10:35.442 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:10:35.486 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:10:48.338 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 21636 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:10:48.344 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:10:49.940 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:10:49.941 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:10:49.941 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:10:50.045 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:10:50.991 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:10:51.025 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 3.116 seconds (JVM running for 4.276)
+00:11:01.962 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:11:03.122 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:11:55.984 [Thread-13] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:11:55.994 [Thread-13] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+00:11:56.473 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 21636 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:11:56.474 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:11:56.969 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:11:56.969 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:11:56.970 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:11:57.005 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:11:57.305 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:11:57.310 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.885 seconds (JVM running for 70.561)
+00:11:59.250 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 21636 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:11:59.251 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:11:59.671 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:11:59.671 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:11:59.671 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:11:59.690 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:11:59.999 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:12:00.005 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.808 seconds (JVM running for 73.256)
+00:12:01.863 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 21636 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:12:01.864 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:12:02.262 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:12:02.262 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:12:02.262 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:12:02.279 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:12:02.526 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:12:02.531 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.718 seconds (JVM running for 75.782)
+00:12:06.334 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 21636 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:12:06.335 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:12:06.685 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:12:06.686 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:12:06.686 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:12:06.706 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:12:07.140 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:12:07.146 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.842 seconds (JVM running for 80.397)
+00:12:18.831 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 14464 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:12:18.836 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:12:20.562 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:12:20.563 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:12:20.563 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:12:20.652 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:12:21.509 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:12:21.542 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 3.159 seconds (JVM running for 4.356)
+00:13:01.633 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 14464 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:13:01.633 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:13:01.965 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:13:01.966 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:13:01.966 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:13:01.992 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:13:02.269 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:13:02.274 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.686 seconds (JVM running for 45.088)
+00:13:32.712 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 16292 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:13:32.716 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:13:34.360 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:13:34.361 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:13:34.361 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:13:34.465 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:13:35.385 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:13:35.415 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 3.139 seconds (JVM running for 4.452)
+00:14:01.110 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:14:01.796 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:14:18.100 [Thread-13] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:14:18.160 [Thread-13] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+00:14:18.755 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 16292 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:14:18.755 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:14:19.070 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:14:19.070 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:14:19.071 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:14:19.098 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:14:19.339 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:14:19.344 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.62 seconds (JVM running for 48.382)
+00:14:34.895 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 14808 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:14:34.900 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:14:36.454 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:14:36.455 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:14:36.455 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:14:36.567 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:14:37.417 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:14:37.447 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 3.12 seconds (JVM running for 4.662)
+00:15:01.319 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:15:02.014 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:16:04.121 [Thread-13] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:16:04.124 [Thread-13] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+00:16:04.465 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 14808 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:16:04.465 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:16:04.752 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:16:04.752 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:16:04.753 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:16:04.828 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:16:05.010 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:16:05.014 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.58 seconds (JVM running for 92.229)
+00:17:07.215 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 1540 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:17:07.219 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:17:08.732 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:17:08.734 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:17:08.735 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:17:08.850 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:17:09.909 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:17:09.938 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 3.103 seconds (JVM running for 3.93)
+00:17:16.963 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 13232 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:17:16.967 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:17:18.199 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:17:18.199 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:17:18.200 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:17:18.274 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:17:19.034 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:17:19.057 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.478 seconds (JVM running for 3.473)
+00:17:40.906 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 13232 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:17:40.907 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:17:42.678 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:17:42.681 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:17:43.881 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:17:43.882 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:17:43.882 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:17:43.963 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:17:44.680 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:17:44.706 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.325 seconds (JVM running for 3.256)
+00:18:01.574 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:18:02.282 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:20:09.856 [Thread-11] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:20:09.864 [Thread-11] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+00:20:10.296 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:20:10.297 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:20:11.008 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:20:11.008 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:20:11.008 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:20:11.030 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:20:11.256 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:20:11.260 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 1.014 seconds (JVM running for 149.81)
+00:20:14.241 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:20:14.242 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:20:14.444 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:20:14.445 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:20:14.445 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:20:14.457 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:20:14.632 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:20:14.636 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.425 seconds (JVM running for 153.185)
+00:20:17.309 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:20:17.309 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:20:17.517 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:20:17.518 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:20:17.518 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:20:17.528 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:20:17.663 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:20:17.666 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.382 seconds (JVM running for 156.215)
+00:20:28.396 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:20:28.396 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:20:28.573 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:20:28.573 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:20:28.573 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:20:28.582 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:20:28.720 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:20:28.722 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.351 seconds (JVM running for 167.272)
+00:20:36.454 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:20:36.454 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:20:36.691 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:20:36.692 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:20:36.692 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:20:36.701 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:20:36.838 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:20:36.841 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.418 seconds (JVM running for 175.391)
+00:20:43.581 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:20:43.581 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:20:43.759 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:20:43.759 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:20:43.759 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:20:43.772 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:20:43.927 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:20:43.930 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.37 seconds (JVM running for 182.48)
+00:20:55.868 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:20:55.868 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:20:56.160 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:20:56.160 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:20:56.161 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:20:56.176 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:20:56.350 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:20:56.354 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.52 seconds (JVM running for 194.904)
+00:21:08.109 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:21:08.109 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:21:08.319 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:21:08.319 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:21:08.320 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:21:08.331 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:21:08.484 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:21:08.487 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.401 seconds (JVM running for 207.037)
+00:21:15.230 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:21:15.231 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:21:15.469 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:21:15.469 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:21:15.469 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:21:15.480 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:21:15.629 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:21:15.632 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.428 seconds (JVM running for 214.182)
+00:21:22.405 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:21:22.405 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:21:22.635 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:21:22.635 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:21:22.635 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:21:22.646 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:21:22.784 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:21:22.788 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.408 seconds (JVM running for 221.338)
+00:21:33.618 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:21:33.619 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:21:33.819 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:21:33.819 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:21:33.819 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:21:33.832 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:21:34.018 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:21:34.021 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.436 seconds (JVM running for 232.572)
+00:21:41.733 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:21:41.733 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:21:41.909 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:21:41.909 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:21:41.909 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:21:41.920 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:21:42.062 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:21:42.065 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.352 seconds (JVM running for 240.615)
+00:21:48.700 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:21:48.700 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:21:48.885 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:21:48.886 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:21:48.886 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:21:48.895 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:21:49.088 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:21:49.092 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.418 seconds (JVM running for 247.642)
+00:21:54.764 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:21:54.764 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:21:55.044 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:21:55.045 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:21:55.045 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:21:55.058 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:21:55.235 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:21:55.238 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.517 seconds (JVM running for 253.789)
+00:22:01.958 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:22:01.959 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:22:02.161 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:22:02.161 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:22:02.161 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:22:02.174 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:22:02.355 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:22:02.358 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.422 seconds (JVM running for 260.908)
+00:22:08.571 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:22:08.571 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:22:08.753 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:22:08.753 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:22:08.753 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:22:08.763 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:22:08.911 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:22:08.914 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.361 seconds (JVM running for 267.464)
+00:22:16.673 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:22:16.674 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:22:16.969 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:22:16.969 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:22:16.969 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:22:16.984 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:22:17.298 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:22:17.302 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.662 seconds (JVM running for 275.852)
+00:22:19.989 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:22:19.990 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:22:20.259 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:22:20.260 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:22:20.260 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:22:20.271 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:22:20.424 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:22:20.428 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.467 seconds (JVM running for 278.978)
+00:22:26.138 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:22:26.139 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:22:26.328 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:22:26.328 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:22:26.328 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:22:26.338 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:22:26.470 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:22:26.472 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.365 seconds (JVM running for 285.022)
+00:22:38.155 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:22:38.155 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:22:38.347 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:22:38.347 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:22:38.347 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:22:38.358 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:22:38.510 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:22:38.513 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.38 seconds (JVM running for 297.063)
+00:22:53.342 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:22:53.343 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:22:53.613 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:22:53.614 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:22:53.614 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:22:53.628 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:22:53.772 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:22:53.775 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.467 seconds (JVM running for 312.325)
+00:22:58.498 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:22:58.498 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:22:58.674 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:22:58.674 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:22:58.674 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:22:58.683 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:22:58.833 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:22:58.836 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.358 seconds (JVM running for 317.386)
+00:23:05.531 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:23:05.531 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:23:05.891 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:23:05.891 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:23:05.892 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:23:05.901 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:23:06.056 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:23:06.058 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.555 seconds (JVM running for 324.608)
+00:23:08.755 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:23:08.755 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:23:08.936 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:23:08.937 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:23:08.937 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:23:08.945 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:23:09.095 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:23:09.098 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.362 seconds (JVM running for 327.647)
+00:23:17.773 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:23:17.773 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:23:17.936 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:23:17.936 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:23:17.936 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:23:17.945 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:23:18.087 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:23:18.090 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.336 seconds (JVM running for 336.64)
+00:23:48.430 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:23:48.442 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:23:48.689 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:23:48.690 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:23:48.690 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:23:48.699 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:23:48.831 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:23:48.834 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.445 seconds (JVM running for 367.383)
+00:23:54.589 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:23:54.589 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:23:54.778 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:23:54.779 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:23:54.779 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:23:54.789 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:23:54.846 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:23:59.309 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:23:59.309 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:23:59.501 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:23:59.501 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:23:59.502 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:23:59.512 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:23:59.543 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:24:25.150 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15188 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:24:25.150 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:24:25.423 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:24:25.424 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:24:25.424 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:24:25.441 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:24:25.488 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:24:30.748 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 7736 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:24:30.750 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:24:31.908 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:24:31.909 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:24:31.909 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:24:31.994 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:24:32.689 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:24:32.711 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.254 seconds (JVM running for 3.106)
+00:25:01.677 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:25:02.341 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:25:16.349 [Thread-10] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:25:16.357 [Thread-10] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+00:25:16.875 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 7736 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:25:16.875 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:25:17.240 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:25:17.240 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:25:17.241 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:25:17.268 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:25:17.544 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:25:17.549 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.716 seconds (JVM running for 47.944)
+00:25:26.160 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 19908 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:25:26.164 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:25:27.335 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:25:27.336 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:25:27.336 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:25:27.410 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:25:28.091 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:25:28.111 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.306 seconds (JVM running for 3.132)
+00:26:01.542 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:26:02.168 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:26:40.932 [Thread-11] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:26:40.939 [Thread-11] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+00:26:41.509 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 19908 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:26:41.509 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:26:41.709 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:26:41.709 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:26:41.709 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:26:41.730 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:26:41.884 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:26:41.888 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.401 seconds (JVM running for 76.909)
+00:26:52.188 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 11700 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:26:52.193 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:26:53.979 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:26:53.980 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:26:53.980 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:26:54.098 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:26:55.038 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:26:55.060 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 3.317 seconds (JVM running for 4.812)
+00:27:01.560 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:27:17.679 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:28:37.116 [Thread-14] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:29:08.611 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 5284 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:29:08.614 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:29:09.746 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:29:09.746 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:29:09.746 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:29:09.809 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:29:10.783 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:29:10.804 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.536 seconds (JVM running for 3.313)
+00:29:19.038 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15248 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:29:19.046 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:29:20.371 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:29:20.371 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:29:20.372 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:29:20.457 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:29:21.386 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:29:21.409 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.806 seconds (JVM running for 3.605)
+00:30:01.472 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:30:11.237 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:31:58.706 [Thread-11] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:31:58.721 [Thread-11] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+00:31:59.172 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 15248 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:31:59.172 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:31:59.483 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:31:59.484 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:31:59.484 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:31:59.504 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:31:59.662 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:31:59.666 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.531 seconds (JVM running for 161.862)
+00:32:08.404 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 3036 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:32:08.407 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:32:09.708 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:32:09.709 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:32:09.709 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:32:09.772 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:32:10.419 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:32:10.450 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.437 seconds (JVM running for 3.279)
+00:32:36.907 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 336 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:32:36.910 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:32:38.025 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:32:38.026 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:32:38.026 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:32:38.097 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:32:38.878 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:32:38.898 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.329 seconds (JVM running for 3.152)
+00:33:01.384 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:33:09.719 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:36:44.397 [Thread-12] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:37:08.568 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 7892 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:37:08.573 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:37:10.451 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:37:10.453 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:37:10.453 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:37:10.551 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:37:11.574 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:37:11.608 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 3.515 seconds (JVM running for 4.79)
+00:37:17.585 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 7892 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:37:17.585 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:37:18.328 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:37:18.329 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:37:18.329 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:37:18.360 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:37:18.728 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:37:18.733 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 1.202 seconds (JVM running for 11.915)
+00:37:34.224 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:37:34.229 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:37:35.963 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:37:35.964 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:37:35.964 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:37:36.073 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:37:36.997 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:37:37.026 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 3.279 seconds (JVM running for 4.527)
+00:38:01.369 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:38:05.972 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:38:31.600 [Thread-13] INFO  c.z.h.HikariDataSource - [close,350] - HikariPool-1 - Shutdown initiated...
+00:38:32.411 [Thread-13] INFO  c.z.h.HikariDataSource - [close,352] - HikariPool-1 - Shutdown completed.
+00:38:32.913 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:38:32.913 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:38:33.371 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:38:33.371 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:38:33.372 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:38:33.412 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:38:33.731 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:38:33.736 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.86 seconds (JVM running for 61.237)
+00:38:39.622 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:38:39.622 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:38:39.958 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:38:39.959 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:38:39.959 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:38:39.977 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:38:40.220 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:38:40.225 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.649 seconds (JVM running for 67.725)
+00:38:55.143 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:38:55.143 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:38:55.500 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:38:55.500 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:38:55.500 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:38:55.513 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:38:55.530 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:39:14.148 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:39:14.148 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:39:14.472 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:39:14.473 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:39:14.473 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:39:14.494 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:39:14.515 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:39:16.094 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:39:16.095 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:39:16.420 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:39:16.420 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:39:16.420 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:39:16.437 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:39:16.457 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:39:27.055 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:39:27.056 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:39:27.513 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:39:27.514 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:39:27.514 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:39:27.535 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:39:27.562 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:39:31.162 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:39:31.162 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:39:31.507 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:39:31.507 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:39:31.507 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:39:31.521 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:39:31.549 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:39:34.126 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:39:34.126 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:39:34.481 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:39:34.482 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:39:34.482 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:39:34.499 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:39:34.523 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:39:36.059 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:39:36.059 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:39:36.302 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:39:36.303 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:39:36.303 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:39:36.321 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:39:36.339 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:39:37.862 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:39:37.863 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:39:38.203 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:39:38.203 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:39:38.204 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:39:38.219 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:39:38.238 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:39:44.804 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:39:44.804 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:39:45.195 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:39:45.195 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:39:45.196 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:39:45.217 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:39:45.241 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+00:39:46.706 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:39:46.707 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:39:47.142 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:39:47.142 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:39:47.143 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:39:47.161 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:39:47.384 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:39:47.389 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.716 seconds (JVM running for 134.89)
+00:40:00.309 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:40:00.310 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:40:00.738 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:40:00.738 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:40:00.739 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:40:00.756 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:40:01.033 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:40:01.037 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.775 seconds (JVM running for 148.539)
+00:40:17.347 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 10268 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:40:17.347 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:40:17.688 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:40:17.689 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:40:17.689 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:40:17.706 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:40:18.073 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:40:18.078 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 0.776 seconds (JVM running for 165.579)
+00:40:36.177 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 14224 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:40:36.181 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:40:37.854 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:40:37.855 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:40:37.856 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:40:37.981 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:40:39.084 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:40:39.113 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 3.393 seconds (JVM running for 4.691)
+00:41:01.502 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:41:09.494 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:42:57.490 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 408 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:42:57.495 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:42:58.619 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:42:58.619 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:42:58.619 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:42:58.690 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:42:59.443 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:42:59.464 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.324 seconds (JVM running for 3.186)
+00:43:01.353 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:43:17.115 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:49:23.460 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 8568 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:49:23.464 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:49:24.597 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:49:24.598 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:49:24.598 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:49:24.670 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:49:25.424 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:49:25.445 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.315 seconds (JVM running for 3.136)
+00:50:00.035 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:50:00.754 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+00:52:14.130 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 13136 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+00:52:14.134 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+00:52:15.253 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+00:52:15.253 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+00:52:15.254 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+00:52:15.325 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+00:52:16.040 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+00:52:16.059 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.299 seconds (JVM running for 3.112)
+00:53:00.020 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,110] - HikariPool-1 - Starting...
+00:53:05.194 [taskScheduler-1] INFO  c.z.h.HikariDataSource - [getConnection,123] - HikariPool-1 - Start completed.
+01:07:50.777 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 19380 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+01:07:50.782 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+01:07:51.995 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+01:07:51.996 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+01:07:51.996 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+01:07:52.068 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+01:07:52.325 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Stopping service [Tomcat]
+22:23:56.839 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 16984 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+22:23:56.843 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+22:23:58.432 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:23:58.435 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:23:58.435 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+22:23:58.569 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:23:59.413 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:23:59.449 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.992 seconds (JVM running for 4.719)
+22:24:02.346 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:26:01.196 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 22992 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+22:26:01.203 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+22:26:02.782 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:26:02.783 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:26:02.783 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+22:26:02.876 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:26:03.783 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:26:03.816 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 3.182 seconds (JVM running for 5.124)
+22:26:21.456 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarting,55] - Starting StockTrendApplication on doing with PID 22640 (D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend\target\classes started by 95465 in D:\work\kaifagongju\idea\IntelliJIDEAPlace\back\stock-trend)
+22:26:21.463 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStartupProfileInfo,651] - No active profile set, falling back to default profiles: default
+22:26:22.871 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:26:22.871 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:26:22.872 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.33]
+22:26:22.964 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:26:23.857 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:26:23.879 [restartedMain] INFO  c.d.s.StockTrendApplication - [logStarted,61] - Started StockTrendApplication in 2.833 seconds (JVM running for 3.973)
+22:26:29.143 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
