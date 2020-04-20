@@ -33,7 +33,7 @@ public class TaskTest {
     private IMainService iMainService;
 
     //晚上定时跑批
- /*   @Scheduled(cron = "0 53 0 * * ? ")//每20秒跑一次0 15 10 * * ? *”
+    @Scheduled(cron = "0 40 23 * * ? ")//每20秒跑一次0 15 10 * * ? *”
     private void nightRun(){
 
         //清空表
@@ -45,7 +45,7 @@ public class TaskTest {
         day = quryTime(day,0);
         //查找数据
         quryNet(day);
-    }*/
+    }
 
     //下午定时跑批
     @Scheduled(cron = "0 0/5 13-14 * * ?")//13点到15.55点每隔5分钟执行一次
@@ -59,7 +59,7 @@ public class TaskTest {
 
     //上午定时跑批
     //@Scheduled(cron = "0 0/5 9-11 * * ?")//9点到11.55点每隔5分钟执行一次
-    @Scheduled(cron = "0 58 20 * * ? ")
+    @Scheduled(cron = "0 14 1 * * ? ")//每20秒跑一次0 15 10 * * ? *”
     private void morningRun(){
         //清空表
         iMainService.deleteStock2();

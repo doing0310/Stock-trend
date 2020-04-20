@@ -111,6 +111,11 @@ public class Stock2 {
     }
 
     public void setShareHolding(String shareHolding) {
+        String unit = shareHolding.substring(shareHolding.length()-1,shareHolding.length());
+        if("亿".equals(unit)){
+            Double count = Double.valueOf(shareHolding.substring(0,shareHolding.length()-1))*100000000;
+            shareHolding = Double.toString(count);
+        }
         this.shareHolding = shareHolding;
     }
     public String getShareHolding() {

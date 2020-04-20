@@ -53,7 +53,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 	</sql>
 
 	<insert id="insertStock2" parameterType="com.doing.stocktrend.bean.Stock2">
-		insert into stock (<include refid="BaseStock2" />)
+		insert into stock2 (<include refid="BaseStock2" />)
 		values
 		(
 		#{stockCode},
@@ -73,4 +73,16 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 	<sql id="BaseStock2">
 	    stockCode,  stockName,  rise,  marketId,  price,  priceRise,  inflow,  inflowOrigin,  shareHolding,  shareHoldingOrigin,  radio
 	</sql>
+
+	<select id="selectStockList" parameterType="String" resultType="com.doing.stocktrend.bean.Stock2">
+		SELECT
+			s.SCode,
+			s.SName,
+			s2.shareHolding,
+			s.ShareSZ,
+			s2.shareHolding - s.ShareSZ NewPrice
+			from stock s
+			LEFT JOIN stock2 s2 ON s.SCode = s2.stockCode
+	</select>
+
 </mapper> 

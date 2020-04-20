@@ -33,4 +33,9 @@ public class MainService implements IMainService {
     public void insertStock2(Stock2 stock) {
         mainMapper.insertStock2(stock);
     }
+
+    @Override
+    public List<Stock> selectStockList(String testing) {
+        return mainMapper.selectStockList(testing);
+    }
 }

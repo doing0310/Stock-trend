@@ -13,4 +13,6 @@ public interface IMainService {
     void deleteStock2();
 
     void insertStock2(Stock2 stock);
+
+    List<Stock> selectStockList(String testing);
 }

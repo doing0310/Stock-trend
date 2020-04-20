@@ -42,7 +42,7 @@
 	<th:block th:include="include :: ztree-js" />
 	<script th:inline="javascript">
 
-		var prefix = ctx + "user";
+		var prefix = ctx;
 
 		$(function() {
 		    queryUserList();
@@ -51,7 +51,7 @@
 
 		function queryUserList() {
 		    var options = {
-		        //url: prefix + "/list",
+		        url: prefix + "/list",
 		        sortName: "createTime",
 		        sortOrder: "desc",
 		        modalName: "股票",
