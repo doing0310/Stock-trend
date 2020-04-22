@@ -13,6 +13,7 @@ import com.alibaba.fastjson.JSONObject;
 import com.doing.stocktrend.bean.Stock;
 import com.doing.stocktrend.bean.Stock2;
 import com.doing.stocktrend.server.IMainService;
+import com.doing.stocktrend.server.WebSocketServer;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.slf4j.Logger;
@@ -21,6 +22,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
+
+import javax.websocket.Session;
 
 @Component
 @Lazy(false)
@@ -33,7 +36,7 @@ public class TaskTest {
     private IMainService iMainService;
 
     //晚上定时跑批
-    @Scheduled(cron = "0 40 23 * * ? ")//每20秒跑一次0 15 10 * * ? *”
+    @Scheduled(cron = "0 0 9 * * ? ")//每20秒跑一次0 15 10 * * ? *”
     private void nightRun(){
 
         //清空表
@@ -48,24 +51,29 @@ public class TaskTest {
     }
 
     //下午定时跑批
-    @Scheduled(cron = "0 0/5 13-14 * * ?")//13点到15.55点每隔5分钟执行一次
+    @Scheduled(cron = "0 0/5 13-15 * * ?")//13点到15.55点每隔5分钟执行一次
     private void afternoonRun(){
         //清空表
-        iMainService.deleteStock2();
-
-        //查找数据
-        quryNet2();
+//        iMainService.deleteStock2();
+//
+//        //查找数据
+//        quryNet2();
+//        String testing="";
+        WebSocketServer webSocketServer=new WebSocketServer();
+        webSocketServer.sendInfo( "10",  "suc");
     }
 
     //上午定时跑批
-    //@Scheduled(cron = "0 0/5 9-11 * * ?")//9点到11.55点每隔5分钟执行一次
-    @Scheduled(cron = "0 14 1 * * ? ")//每20秒跑一次0 15 10 * * ? *”
+    @Scheduled(cron = "0 0/5 9-11 * * ?")//9点到11.55点每隔5分钟执行一次
     private void morningRun(){
         //清空表
         iMainService.deleteStock2();
 
         //查找数据
         quryNet2();
+        String testing="";
+        WebSocketServer webSocketServer=new WebSocketServer();
+        webSocketServer.sendInfo( "10",  "suc");
     }
 
 

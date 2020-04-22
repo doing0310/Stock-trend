@@ -29,14 +29,14 @@ import java.util.Map;
 public class Instance {
 
     private static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-    private static final String DB_URL = "jdbc:mysql://129.204.119.234:3306/";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/";
     private static final String DATABASE = "testdb";
     private static final boolean IS_CREATE_DATABASE = false;
     private static final boolean IS_Dentify_TABLE = true;
     private static final boolean IS_CREATE_TABLE = true;
     private static final String USER = "root";
-    private static final String PASS = "czyxx123";
-    private static final String FILE_PATH = "D:\\work\\kaifagongju\\idea\\IntelliJIDEAPlace\\back\\stock-trend\\src\\main\\java\\com\\doing\\stocktrend\\bean";
+    private static final String PASS = "root";
+    private static final String FILE_PATH = "D:\\work\\idea\\IntelliJIDEAPlace\\back\\stock-trend\\src\\main\\java\\com\\doing\\stocktrend\\bean";
     private static StringBuffer sb = new StringBuffer();
     private static Map<String, List<String[]>> map = new HashMap();
     private static int index;

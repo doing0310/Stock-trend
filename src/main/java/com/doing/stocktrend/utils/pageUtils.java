@@ -8,11 +8,12 @@ import com.github.pagehelper.PageInfo;
 
 import java.util.List;
 
-public class BaseUtils {
+public class pageUtils {
+
     /**
      * 设置请求分页数据
      */
-    public static void startPage()
+    public void startPage()
     {
         PageDomain pageDomain = TableSupport.buildPageRequest();
         Integer pageNum = pageDomain.getPageNum();
@@ -28,7 +29,7 @@ public class BaseUtils {
      * 响应请求分页数据
      */
     @SuppressWarnings({ "rawtypes", "unchecked" })
-    public static TableDataInfo getDataTable(List<?> list)
+    public TableDataInfo getDataTable(List<?> list)
     {
         TableDataInfo rspData = new TableDataInfo();
         rspData.setCode(0);
@@ -36,5 +37,4 @@ public class BaseUtils {
         rspData.setTotal(new PageInfo(list).getTotal());
         return rspData;
     }
-
 }

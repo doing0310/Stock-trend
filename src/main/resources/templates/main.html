@@ -5,6 +5,7 @@
 	<th:block th:include="include :: layout-latest-css" />
 	<th:block th:include="include :: ztree-css" />
 </head>
+
 <body class="gray-bg">
 	<div class="ui-layout-center">
 		<div class="container-div">
@@ -42,57 +43,78 @@
 	<th:block th:include="include :: ztree-js" />
 	<script th:inline="javascript">
 
-		var prefix = ctx;
+        var url=[[${url}]];
 
 		$(function() {
+			var panehHidden = false;
+			if ($(this).width() < 769) {
+				panehHidden = true;
+			}
+			$('body').layout({ initClosed: panehHidden, west__size: 185 });
 		    queryUserList();
             openSocket();
 		});
 
 		function queryUserList() {
 		    var options = {
-		        url: prefix + "/list",
-		        sortName: "createTime",
-		        sortOrder: "desc",
+		        url: url + "/list",
+                pagination: false,
+                showFooter: true,
+                //pageList: [100, 250, 500],
 		        modalName: "股票",
 		        columns: [
 		        {
-		            field: 'userId',
+		            field: 'sname',
 		            title: '股票'
 		        },
+				{
+					field: 'scode',
+					title: '股票代码'
+                },
 		        {
-		            field: 'loginName',
-		            title: '股票代码',
-		            sortable: true
+		            field: 'shareSZ',
+		            title: '昨天持有数值',
+					sortable: true,
+					formatter: function (value, row, index) {
+						if (Math.abs(value) > 100000000) {
+							return (value / 100000000).toFixed(2) + '亿'
+						} else if (Math.abs(value) > 10000) {
+							return (value / 10000).toFixed(2) + '万'
+						} else {
+							return value.toFixed(2)
+						}
+						return value;
+					}
 		        },
 		        {
-		            field: 'userName',
-		            title: '用户名称'
+		            field: 'shareHold',
+		            title: '现在持有数值',
+					sortable: true,
+					formatter: function (value, row, index) {
+						if (Math.abs(value) > 100000000) {
+							return (value / 100000000).toFixed(2) + '亿'
+						} else if (Math.abs(value) > 10000) {
+							return (value / 10000).toFixed(2) + '万'
+						} else {
+							return value.toFixed(2)
+						}
+						return value;
+					}
 		        },
 		        {
-		            field: 'dept.deptName',
-		            title: '部门'
-		        },
-		        {
-		            field: 'email',
-		            title: '邮箱',
-		            visible: false
-		        },
-		        {
-		            field: 'phonenumber',
-		            title: '手机'
-		        },
-		        {
-		        	title: '用户状态',
-		        	align: 'center',
-		        	formatter: function (value, row, index) {
-		        		return statusTools(row);
-		        	}
-		        },
-		        {
-		            field: 'createTime',
-		            title: '创建时间',
-		            sortable: true
+		            field: 'newPrice',
+		            title: '资金流入/流出',
+                    sortable: true,
+					formatter: function (value, row, index) {
+						if (Math.abs(value) > 100000000) {
+							return (value / 100000000).toFixed(2) + '亿'
+						} else if (Math.abs(value) > 10000) {
+							return (value / 10000).toFixed(2) + '万'
+						} else {
+							return value.toFixed(2)
+						}
+						return value;
+					}
 		        }]
 		    };
 		    $.table.init(options);
@@ -122,6 +144,9 @@
                 socket.onmessage = function(msg) {
                     var serverMsg = "收到服务端信息：" + msg.data;
                     console.log(serverMsg);
+                    if("suc"==msg.data){
+						queryUserList();
+					}
                     //发现消息进入    开始处理前端触发逻辑
                 };
                 //关闭事件

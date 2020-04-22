@@ -74,15 +74,16 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 	    stockCode,  stockName,  rise,  marketId,  price,  priceRise,  inflow,  inflowOrigin,  shareHolding,  shareHoldingOrigin,  radio
 	</sql>
 
-	<select id="selectStockList" parameterType="String" resultType="com.doing.stocktrend.bean.Stock2">
+	<select id="selectStockList" parameterType="String" resultType="com.doing.stocktrend.bean.Stock">
 		SELECT
-			s.SCode,
-			s.SName,
-			s2.shareHolding,
-			s.ShareSZ,
+			s.SCode SCode,
+			s.SName SName,
+			s2.shareHolding shareHold,
+			s.ShareSZ ShareSZ,
 			s2.shareHolding - s.ShareSZ NewPrice
 			from stock s
 			LEFT JOIN stock2 s2 ON s.SCode = s2.stockCode
+
 	</select>
 
 </mapper> 

@@ -6,7 +6,7 @@ import com.doing.stocktrend.utils.ServletUtils;
 /**
  * 表格数据处理
  * 
- * @author doing
+ * @author ruoyi
  */
 public class TableSupport
 {

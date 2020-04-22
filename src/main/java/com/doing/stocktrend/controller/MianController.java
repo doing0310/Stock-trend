@@ -1,14 +1,14 @@
 package com.doing.stocktrend.controller;
 
 import com.doing.stocktrend.bean.Stock;
+import com.doing.stocktrend.config.ServerConfig;
 import com.doing.stocktrend.page.TableDataInfo;
 import com.doing.stocktrend.server.IMainService;
-import com.doing.stocktrend.utils.BaseUtils;
+import com.doing.stocktrend.utils.pageUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.ui.ModelMap;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -22,7 +22,7 @@ public class MianController {
      * 主页面
      */
     @GetMapping("/index")
-    public String index()
+    public String index(ModelMap mmap)
     {
         return  "index";
     }
@@ -31,8 +31,10 @@ public class MianController {
      * mian页面
      */
     @GetMapping("/main")
-    public String main()
+    public String main(ModelMap mmap)
     {
+        String url = ServerConfig.getUrl();
+        mmap.put("url", url);
         return  "main";
     }
 
@@ -40,9 +42,10 @@ public class MianController {
     @ResponseBody
     public TableDataInfo list(String testing)
     {
-        BaseUtils.startPage();
+        pageUtils pageUtils=new pageUtils();
+        pageUtils.startPage();
         List<Stock> list = iMainService.selectStockList(testing);
-        return BaseUtils.getDataTable(list);
+        return pageUtils.getDataTable(list);
     }
 
 

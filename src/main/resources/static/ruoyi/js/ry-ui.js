@@ -56,7 +56,7 @@ var table = {
                     showRefresh: true,
                     showColumns: true,
                     showToggle: true,
-                    showExport: false,
+                    showExport: true,
                     clickToSelect: false,
                     singleSelect: false,
                     mobileResponsive: true,
@@ -86,7 +86,7 @@ var table = {
                     sortOrder: options.sortOrder,                       // 排序方式  asc 或者 desc
                     pagination: options.pagination,                     // 是否显示分页（*）
                     pageNumber: 1,                                      // 初始化加载第一页，默认第一页
-                    pageSize: options.pageSize,                         // 每页的记录行数（*） 
+                    pageSize: options.pageSize,                         // 每页的记录行数（*）
                     pageList: options.pageList,                         // 可供选择的每页的行数（*）
                     firstLoad: options.firstLoad,                       // 是否首次请求加载数据，对于数据较大可以配置false
                     escape: options.escape,                             // 转义HTML字符串

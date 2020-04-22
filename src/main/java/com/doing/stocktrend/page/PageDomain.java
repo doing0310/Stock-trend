@@ -5,7 +5,7 @@ import com.doing.stocktrend.utils.StringUtils;
 /**
  * 分页数据
  * 
- * @author doing
+ * @author ruoyi
  */
 public class PageDomain
 {
